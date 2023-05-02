@@ -1,4 +1,4 @@
-link - https://heroic-dodol-5b6f9e.netlify.app/login
+link - https://heroic-dodol-5b6f9e.netlify.app
 
 # Getting Started with Create React App
 
